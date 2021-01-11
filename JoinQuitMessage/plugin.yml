@@ -1,0 +1,5 @@
+name: JoinQuitMessage
+main: aatherf.plugin.join.Main
+version: 1.3
+author: AaTherf
+commands: 
